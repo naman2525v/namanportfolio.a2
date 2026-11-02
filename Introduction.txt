@@ -1,0 +1,14 @@
+Name :
+NAMAN VERMA 
+Class:
+First Year Student
+University:
+Newton School University / Rishihood University
+Hobbies:
+Swimming
+Cricket
+Reading books
+Football 
+Skills: Python/Java/Web-Development/CLI/AI-ML
+What I want?
+One file index.html which contains html and css code and it should have my portfolio
